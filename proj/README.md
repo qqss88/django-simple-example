@@ -20,3 +20,7 @@
 ## It will be better on Linux:
 
 - python manage.py celeryd -E -B --loglevel=info
+
+---
+- A visualized demo
+http://www.lexev.org/en/2014/django-celery-setup/
